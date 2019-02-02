@@ -1,0 +1,31 @@
+body{
+			max-width: 90%; margin: 0 auto; background-image: url(background.jpg); background-position: center; background-attachment: fixed;
+		}
+
+h1{
+	text-align: center; font-style: italic; font-size: 50px; border-style: double; border-width: 15px; border-radius: 10px; background-color: rgba(255, 248, 220, 0.7); border-color: #8B4513;
+}
+
+h2{
+	padding-left: 10px; border-style: solid; border-width: 2px; border-radius: 10px; background-color: rgba(255, 248, 220, 0.7); border-color: #8B4513;
+}
+
+h3{
+	margin-left: 10px;
+}
+
+article{font-style: italic; font-size: 20px; background-color: rgba(255, 248, 220, 0.7); border-radius: 10px; text-align: right; padding-right: 10px;
+}
+
+p{border-style: solid; border-width: 2px; border-left-width: 10px; border-radius: 5px; margin: 10px; border-color: #D2691E; padding-left: 5px;
+}
+
+section.day{border-style: solid; border-width: 4px; border-radius: 10px; border-color: #8B4513; margin-top: 10px; margin-bottom: 10px; background-color: rgba(255, 248, 220, 0.7);
+}
+
+cite{
+	font-weight: bold;
+}
+img{
+	max-width: 98%; margin: auto; display: block; padding-bottom: 5px; padding-top: 5px; border-radius: 20px;
+}
